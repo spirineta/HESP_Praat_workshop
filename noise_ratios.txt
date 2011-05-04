@@ -1,0 +1,7 @@
+subject	target	ratio
+EF05	had	1
+EF05	heed	2
+EF05	whod	3
+EM23	had	3
+EM23	heed	1
+EM23	whod	2

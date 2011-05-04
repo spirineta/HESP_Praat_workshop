@@ -1,0 +1,42 @@
+* Overview
+* Making duration measurement by hand
+* TextGrids
+* Intro to scripting
+** History
+** Variables
+*** Creating variables (assignment)
+*** Variable types
+*** Using variables [2/4]
+    - [ ] in math
+    - [X] 
+    - [X] 
+    - [ ] 
+    - with single quotes
+    - in string outputs
+** Comments
+* Doing the measurement via script
+** Object selection
+* Measurement 2: pitch
+* Measurement 2 via looped script
+** for loops
+** cleanup
+* Measurement 3: Fricatives
+* Outputs
+** Info window
+** Files
+* Measurement 4: Formants
+* More scripting tricks
+** Forms
+* Manipulation 1: Normalize volume
+** Saving .wav
+* Manipulation 2: Changing length of noise
+* Manipulation 3: Superimposing noise
+** Script
+   - Loop over files
+   - Get duration of target
+   - Trim noise to duration
+   - Measure noise RMS
+   - Measure vowel RMS (use TextGrid to extract times)
+   - Scale multiply
+
+
